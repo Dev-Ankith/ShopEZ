@@ -109,3 +109,7 @@ npm run dev
 ```
 
 The React storefront will boot on `http://localhost:3000/`.
+
+
+### DEMO VIDEO
+https://drive.google.com/file/d/1Jq-dNRdZTtUFeLH-F8JM51NgufRPNnMi/view?usp=drive_link
